@@ -11,8 +11,8 @@ Vous avez **6 tentatives** avant de perdre la partie.
 
 **Liste d'améliorations prévues pour faire évoluer le projet :**
 
-- 🎨 **Dessin du pendu** (ASCII art étape par étape)
-- 🎯 **Système de niveaux** (facile, moyen, difficile)
-- 🧹 **Interface plus clean** (effacer l'écran entre chaque tour)
+- 🎨 **Dessin du pendu** (ASCII )
+- 🎯 **Système de niveaux** 
+- 🧹 **Interface plus clean**
 - 💾 **Importation de mots** depuis un fichier externe
 
